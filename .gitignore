@@ -13,17 +13,27 @@ jobs/
 session-env/
 sessions/
 shell-snapshots/
-.backups/
+backups/
 .last-*
 .last-update-result.json
 .mcp-needs-auth-cache.json
+.history.jsonl
+.daemon.*
+.*.json
 
 # Plugin cache
 plugins/cache/
 plugins/data/
 plugins/plugin-catalog-cache.json
+plugins/.last_inuse_sweep
+plugins/.DS_Store
+plugins/*/.DS_Store
 
-# History
-history.jsonl
+# Skills cache
+skills/*/.DS_Store
+
+# Marketplace specific
+plugins/marketplaces/claude-plugins-official/.gcs-sha
+plugins/marketplaces/claude-plugins-official/.gitignore
 
 # EOF
