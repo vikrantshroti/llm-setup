@@ -1,0 +1,21 @@
+{
+  "hooks": {
+    "PreToolUse": []
+  },
+  "enabledPlugins": {
+    "context7@claude-plugins-official": true,
+    "playwright@claude-plugins-official": true
+  },
+  "modelSettings": {
+    "deepseek-ai/deepseek-v4-flash-0731": {
+      "effortLevel": "medium"
+    },
+    "claude-opus-5": {
+      "effortLevel": "medium"
+    }
+  },
+  "statusLine": {
+    "type": "command",
+    "command": "bash /Users/vikrantshroti/.claude/statusline.sh"
+  }
+}

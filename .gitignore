@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Logs
+*.log
+daemon.log
+
+# Cache and temporary files
+cache/
+downloads/
+file-history/
+jobs/
+session-env/
+sessions/
+shell-snapshots/
+.backups/
+.last-*
+.last-update-result.json
+.mcp-needs-auth-cache.json
+
+# Plugin cache
+plugins/cache/
+plugins/data/
+plugins/plugin-catalog-cache.json
+
+# History
+history.jsonl
+
+# EOF

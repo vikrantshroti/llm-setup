@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "plugins": {
+    "valtown@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/vikrantshroti/.claude/plugins/cache/claude-plugins-official/valtown/0.4.0",
+        "version": "0.4.0",
+        "installedAt": "2026-09-14T15:58:31.280Z",
+        "lastUpdated": "2026-09-14T15:58:31.280Z",
+        "gitCommitSha": "2d3ec654b6a7d93e209afb8f2e8848eddcb9f17b"
+      }
+    ],
+    "context7@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/vikrantshroti/.claude/plugins/cache/claude-plugins-official/context7/1dd995193ba2",
+        "version": "1dd995193ba2",
+        "installedAt": "2026-09-14T15:59:02.508Z",
+        "lastUpdated": "2026-09-14T15:59:02.508Z"
+      }
+    ],
+    "playwright@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/vikrantshroti/.claude/plugins/cache/claude-plugins-official/playwright/1dd995193ba2",
+        "version": "1dd995193ba2",
+        "installedAt": "2026-09-14T15:59:18.810Z",
+        "lastUpdated": "2026-09-14T15:59:18.810Z"
+      }
+    ]
+  }
+}
