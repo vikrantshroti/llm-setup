@@ -1,0 +1,13 @@
+{
+  "settings": {
+    "theme": "default",
+    "defaultModel": "{env:OPENCODE_DEFAULT_MODEL}"
+  },
+  "mcp": {
+    "servers": {}
+  },
+  "permissions": {
+    "allow": [],
+    "deny": []
+  }
+}

@@ -36,4 +36,13 @@ skills/*/.DS_Store
 plugins/marketplaces/claude-plugins-official/.gcs-sha
 plugins/marketplaces/claude-plugins-official/.gitignore
 
+# OpenCode
+.opencode/**/.env
+.opencode/**/secrets.json
+.opencode/cache/
+.opencode/data/
+
+# Local OpenCode config with resolved secrets (commit only opencode.json.example)
+opencode.json
+
 # EOF
